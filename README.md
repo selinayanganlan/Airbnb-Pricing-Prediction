@@ -1,4 +1,10 @@
 # Airbnb-Pricing-Prediction
-Supervised learning models in Python to predict the nightly prices of Airbnb listings.
+Predicted the nightly prices of [Airbnb](https://www.airbnb.com) listings by building 5 supervised learning models in Python. Ranked 9th out of 73 in the [Kaggle competition](https://www.kaggle.com/c/qbus6850-group-project-s2-2020/overview).
 
-Decision Tree, Random Forest, XGBoost, AdaBoost and Stacking.
+- Decision Tree
+- Random Forest
+- XGBoost
+- AdaBoost
+- Stacking
+
+![Kaggle](https://user-images.githubusercontent.com/63196636/118359265-0d867600-b5c6-11eb-8689-48aabc05e067.png)
