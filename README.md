@@ -1,5 +1,5 @@
 # Airbnb-Pricing-Prediction
-Predicted the nightly prices of [Airbnb](https://www.airbnb.com) listings by building 5 supervised learning models in Python. 
+Predicted the nightly prices of [Airbnb](https://www.airbnb.com) listings by 5 supervised learning models. 
 
 - Decision Tree
 - Random Forest
